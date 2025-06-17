@@ -26,7 +26,7 @@ I rank in the **top 2% on TryHackMe**, having completed over **150+ hands-on lab
 
  <img src="https://images.squarespace-cdn.com/content/v1/6059ef5d59f1411908292205/4370a25e-b47d-4647-a0fa-36fce5eb5ea5/Hacking-Cybersecurity.gif" alt="Cybersecurity GIF" width="250" align="right">
 <br>
-  <em><b>🔥Let’s make systems smarter and safer—one alert at a time.</b></em> <br><br>
+  <em><b>🔥Let’s make systems smarter and safer—one alert at a time.</b></em> <br><be><br>
   <em><b>⚡Zero Trust is the way forward for Cybersec.</b></em>
 
 &nbsp;
