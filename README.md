@@ -1,14 +1,19 @@
 # Hi, I’m Dipayan! 👋
 
-I’m a passionate **Cybersecurity Analyst** with 3+ years of experience protecting healthcare and financial systems through offensive testing, risk management, and GRC compliance. Currently pursuing an **M.S. in Computer Science (Cybersecurity)** at Boston University, I specialize in **penetration testing, threat detection, SOC development**, and **ISO 27001/HIPAA/GDPR compliance**.
+I’m a passionate **Cybersecurity Analyst** with 3+ years of experience protecting healthcare and financial systems through offensive testing, risk management, and GRC compliance. I recently earned my **Master’s degree in Computer Science (Cybersecurity)** from **Boston University**, and I’m eager to apply my skills to secure critical infrastructure and support global security initiatives.
 
-I enjoy working on projects that combine **log analysis, automation**, and **ML-powered security solutions**—bridging the gap between red teaming and intelligent threat response. I thrive in dynamic teams, especially where security and innovation intersect.
+I am highly passionate about cybersecurity and have hands-on experience with security testing tools such as **Metasploit, Nmap, Wireshark, and Kali Linux**, applying them to **penetration testing, network security assessments**, and **vulnerability management**.
+
+At **Accenture** and **eGyanam Technologies**, I conducted security testing and risk analysis to identify vulnerabilities and ensure compliance with **GDPR, HIPAA, and ISO27001**. At **Accenture**, I performed network security assessments using Wireshark and contributed to SOC framework implementations for financial services clients. My expertise in **threat detection, risk assessment, and automation** helps strengthen security postures and maintain enterprise regulatory compliance.
+
+I rank in the **top 2% on TryHackMe**, having completed over **150+ hands-on labs**, including real-world scenarios in **threat detection, vulnerability analysis, and incident response**. I’ve also earned multiple security certifications showcasing my practical expertise in security operations and blue team methodologies.
+
 
 🔐 **Skills**: Python, Java, SQL, C/C++, Shell Scripting, Metasploit, Nmap, Wireshark, Kali Linux, MetricStream, Oracle APEX  
 🛠️ **Cyber Tools**: Nessus, John the Ripper, CyberChef, Burp Suite, SIEM, GRC tools, REMnux, FlareVM  
 🧰 **Tech Practices**: DevSecOps, ISO27001, NIST, MITRE ATT&CK, PCI-DSS  
 📍 **Location**: Boston, MA  
-🎓 **Education**: M.S. in Computer Science (Cybersecurity), Boston University (Dec 2024)  
+🎓 **Education**: M.S. in Computer Science (Cybersecurity), Boston University (Jan 2025)  
 📜 **Certifications**: CompTIA Security+, (ISC)² CC, Oracle Cloud Infra, TryHackMe SOC & Security Engineer  
 📬 **Contact**: Email: dipayanmazumderus150@gmail.com | [LinkedIn](https://www.linkedin.com/in/dipayan-mazumder/)  
 🔗 **Projects**: [Phishing Detection ML Model](https://github.com/yourusername/itmas-cybersecurity) (coming soon!)  
