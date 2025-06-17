@@ -23,3 +23,7 @@ I rank in the **top 2% on TryHackMe**, having completed over **150+ hands-on lab
 
 > *Let’s make systems smarter and safer—one alert at a time.*
 
+---
+
+![Cybersecurity Banner](https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3liZXJzZWN1cml0eXxlbnwwfHwwfHx8MA%3D%3D)
+
